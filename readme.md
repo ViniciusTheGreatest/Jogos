@@ -4,7 +4,7 @@ Este projeto foi desenvolvido utilizando o Construct. Siga atentamente os passos
 
 ## 📥 Download do Arquivo
 
-Faça o download do jogo clicando em Raw File (arquivo bruto). Salve o arquivo em um diretório local do seu computador (ex: Downloads ou Documentos).
+Faça o download em <a>https://github.com/819SauCe/Jogos/releases/tag/v1</a>
 
 ## 🌐 Acessando o Construct
 
